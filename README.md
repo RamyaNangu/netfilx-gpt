@@ -21,7 +21,21 @@
   -Register TMDB API & create an app & get access token
   -Get data from TMDB now  playing movies list API
   -Custom Hook for now playing movies
-  
+  -Create moviesSlice
+  -Update Store with movies Data
+  -Planning for MainCounter & secondary container
+  -Fetch Data for Trailer Video
+  -Update store with Trailer Video
+  -EMbedded the youtube Video and make it autoPlay and mute
+  -Tailwind classes to make Main Container look awesome
+  -Build Secondary Component
+  -Build Movies List
+  -Build Movies Card
+  -TMDB Image CDN URL
+  -Made the Browser Page amazing with Tailwind CSS
+  -usePopular moviess custom hook
+  -created few more custom hooks (top rated,Upcoming)
+
 
 # Features
 -Login /Sign up
