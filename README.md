@@ -35,7 +35,9 @@
   -Made the Browser Page amazing with Tailwind CSS
   -usePopular moviess custom hook
   -created few more custom hooks (top rated,Upcoming)
-
+  -GPT search Feature
+  -GPT Search bar
+  -Multi-language Feature in our Application
 
 # Features
 -Login /Sign up
